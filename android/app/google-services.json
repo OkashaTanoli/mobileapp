@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690762175665",
+    "project_id": "mybloodbankreactnative",
+    "storage_bucket": "mybloodbankreactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690762175665:android:b78242ebd6c73cf61dbe90",
+        "android_client_info": {
+          "package_name": "com.awesome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690762175665-e6l1smq6ohk99hes6bo4qntociur071d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDutvzDOUIS-CzV3hg3U5Owd2ZO_HnLFZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690762175665-e6l1smq6ohk99hes6bo4qntociur071d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
